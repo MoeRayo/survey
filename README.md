@@ -1,2 +1,2 @@
 # survey
-This is a srvey form 
+This is a survey form 
