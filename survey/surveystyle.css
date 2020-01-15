@@ -1,0 +1,61 @@
+#main{
+    background-color: #3B5998;
+    color: #ffffff;  
+    padding-top: 2rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+#title{
+    text-align: center; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#description{
+    text-align: center; 
+    margin-top: -10px;
+}
+#survey-form{
+    background-color: #da6817;
+    width: 40%;
+    margin: 0 auto;
+    padding: 3rem 2rem;
+    box-sizing: border-box;
+    border-radius: 0 2rem 0 2rem;
+}
+.inputs,#dropdown{
+    display: block;
+    width: 100%;
+    margin-bottom: 2rem;
+    margin-top: .5rem;
+    color: #3B5998;
+    padding: 5px;
+    font-size: 1rem;
+    box-sizing: border-box;
+    border-radius: .5rem;
+    border: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.label{
+    display: block;
+    margin-bottom: 10px;
+    
+}
+.p{
+    margin: 2rem 0 1rem 0;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+#submit{
+    background-color: #37AF65;
+    color: #ffffff;
+    width: 50%;
+    box-sizing: border-box;
+    border: 1px solid #da6817;
+    border-radius: .5rem;
+    padding: .8rem;
+    font-size: .9rem;
+}
+#submit:hover{
+    background-color: #1b8041;
+}
