@@ -17,6 +17,7 @@
 #survey-form{
     background-color: #da6817;
     width: 40%;
+    min-width: 290px;
     margin: 0 auto;
     padding: 3rem 2rem;
     box-sizing: border-box;
