@@ -55,6 +55,7 @@
     border-radius: .5rem;
     padding: .8rem;
     font-size: .9rem;
+    cursor:pointer;
 }
 #submit:hover{
     background-color: #1b8041;
